@@ -1,0 +1,1 @@
+web: gunicorn htmldeploy.wsgi --log-file -
